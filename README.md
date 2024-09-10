@@ -10,7 +10,7 @@ This project provides a straightforward web application for generating strong, s
 2) CSS: For styling and layout.
 3) JavaScript: For the password generation logic.
 
-How to Use
+## How to Use
 
 1) Clone the Repository:
 `git clone https://github.com/Nandinipatil1410/random-password-generator.git`
